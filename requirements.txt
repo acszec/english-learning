@@ -1,0 +1,4 @@
+requests
+Scrapy
+selenium
+ipdb
